@@ -6,7 +6,7 @@ create table Category(
 );
 
 CREATE table Product(
-                        id int auto_increment primary key,
+                        productId int auto_increment primary key,
                         productName varchar(255),
                         productPrice int not null,
                         productQuantity int not null,

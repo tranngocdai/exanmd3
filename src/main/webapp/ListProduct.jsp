@@ -13,7 +13,7 @@
 </head>
 <body>
 <table>
-    <a href="/Product?action=create">Create</a>
+    <a href="/Product?action=create">Thêm sản phẩm</a>
     <tr>
         <th>ID</th>
         <th>Name</th>
